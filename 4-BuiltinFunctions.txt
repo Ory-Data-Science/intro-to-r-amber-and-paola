@@ -1,0 +1,16 @@
+> abs(-15.5)
+[1] 15.5
+> round(4.483847,1)
+[1] 4.5
+> round(3.8)
+[1] 4
+> toupper("species")
+[1] "SPECIES"
+> tolower("SPECIES")
+[1] "species"
+> sqrt<-sqrt(2.6)
+> rounding<-round(sqrt,2)
+> print(rounding)
+[1] 1.61
+> round(sqrt(2.6),2)
+[1] 1.61
